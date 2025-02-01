@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22234
-Fork on GitHub7182
 <h1 align="center">Hi 👋, I'm Juster</h1>
 <h3 align="center">A Skilled programmer and ethical hacker</h3>
 
