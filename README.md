@@ -104,14 +104,6 @@ Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kot
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=1F6B41&fire=1F6B41&currStreakNum=24292E&sideNums=24292E&currStreakLabel=1F6B41&sideLabels=6A737D&dates=6A737D&hide_border=false" />
-  <img alt="7wp81x's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=FFFFFF&title_color=1F6B41&text_color=24292E&border_color=E1E4E8&icon_color=1F6B41&chart_color=1F6B41" />
   <img alt="7wp81x's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" height="180" />
@@ -141,6 +133,14 @@ Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kot
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=default&combine_all_yearly_contributions=true" />
   <img alt="7wp81x's top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=1F6B41&fire=1F6B41&currStreakNum=24292E&sideNums=24292E&currStreakLabel=1F6B41&sideLabels=6A737D&dates=6A737D&hide_border=false" />
+  <img alt="7wp81x's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
 </picture>
 </div>
 
