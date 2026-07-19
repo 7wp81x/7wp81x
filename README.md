@@ -132,7 +132,7 @@ Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kot
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=default&combine_all_yearly_contributions=true" />
-  <img alt="7wp81x's top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 </picture>
 </div>
 
