@@ -13,13 +13,13 @@
 
 <br>
 
-## `whoami`
+## `> whoami_`
 
 
 Full-stack dev who builds things professionally and breaks them personally. Web, desktop, Android, embedded... if it runs code, I've probably messed with it.
 <br>
 
-## `ls skills/`
+## `>ls skills/_`
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ Full-stack dev who builds things professionally and breaks them personally. Web,
 
 ##
 
-**`> Frameworks_  `**
+**`> Frameworks_`**
 <br>
 <img src="https://img.shields.io/badge/Laravel-0A0E14?style=flat-square&logo=laravel&logoColor=00E5A0" />
 <img src="https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=node.js&logoColor=00E5A0" />
@@ -211,7 +211,7 @@ Full-stack dev who builds things professionally and breaks them personally. Web,
 
 <br>
 
-## `git log --stat`
+## `>git log --stat_`
 
 <!-- Row 1: Stats + Most Commit Language — inline 50% each, no whitespace between tags -->
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="GitHub Stats" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Most Commit Language" width="49.5%" /></div>
