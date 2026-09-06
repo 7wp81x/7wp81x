@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=39D97A&center=true&vCenter=true&width=600&lines=7wp81x+%2F%2F+J457;Full-Stack+Developer;Security+Researcher;I+build+it.+Then+I+break+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=7wp81x+%2F%2F+J457;Full-Stack+Developer;Security+Researcher;I+build+it.+Then+I+break+it." alt="Typing SVG" />
 
 <br>
 
-`web dev` · `embedded systems` · `security research`
-
-<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7wp81x)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/7wp81x)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theblixors)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justergami4)
 
 </div>
 
@@ -20,8 +16,7 @@
 ## `whoami`
 
 
-I build software on both sides of the fence — shipping features and trying to break them.
-Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kotlin**), and embedded (**Python**, **C/C++** on ESP32 hardware and wireless protocols).
+Full-stack dev who builds things professionally and breaks them personally. Web, desktop, Android, embedded... if it runs code, I've probably messed with it.
 <br>
 
 ## `ls skills/`
@@ -30,69 +25,163 @@ Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kot
 <tr>
 <td valign="top" width="50%">
 
-**Programming Languages**
+**FORMAL TRAINING**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-0A0E14?style=flat-square&logo=laravel&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/PHP-0A0E14?style=flat-square&logo=php&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/C%23-0A0E14?style=flat-square&logo=c-sharp&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Java-0A0E14?style=flat-square&logo=openjdk&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/MySQL-0A0E14?style=flat-square&logo=mysql&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Windows_Server-0A0E14?style=flat-square&logo=windows&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Active_Directory-0A0E14?style=flat-square&logo=microsoft&logoColor=00E5A0" />
+
+</td>
+<td valign="top" width="50%">
+
+**SELF-DIRECTED · 6+ YEARS**
+<br>
+<img src="https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/C%2FC++-0A0E14?style=flat-square&logo=c%2B%2B&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/JavaScript-0A0E14?style=flat-square&logo=javascript&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-0A0E14?style=flat-square&logo=html5&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Linux-0A0E14?style=flat-square&logo=linux&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Shell-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=node.js&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Kotlin-0A0E14?style=flat-square&logo=kotlin&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/ESP32-0A0E14?style=flat-square&logo=espressif&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Django-0A0E14?style=flat-square&logo=django&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/.NET-0A0E14?style=flat-square&logo=.net&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Serial%2FUSB-0A0E14?style=flat-square&logo=usb&logoColor=00E5A0" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Full badge breakdown -->
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/PHP-0A0E14?style=flat-square&logo=php&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/C%23-0A0E14?style=flat-square&logo=c-sharp&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Java-0A0E14?style=flat-square&logo=openjdk&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/C++-0A0E14?style=flat-square&logo=c%2B%2B&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/C-0A0E14?style=flat-square&logo=c&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/JavaScript-0A0E14?style=flat-square&logo=javascript&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Kotlin-0A0E14?style=flat-square&logo=kotlin&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/HTML5-0A0E14?style=flat-square&logo=html5&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/CSS3-0A0E14?style=flat-square&logo=css3&logoColor=00E5A0" />
 
 **Frameworks**
 <br>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-0A0E14?style=flat-square&logo=laravel&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Node.js-0A0E14?style=flat-square&logo=node.js&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Django-0A0E14?style=flat-square&logo=django&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/.NET-0A0E14?style=flat-square&logo=.net&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Flask-0A0E14?style=flat-square&logo=flask&logoColor=00E5A0" />
 
 **Databases**
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-0A0E14?style=flat-square&logo=mysql&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/MariaDB-0A0E14?style=flat-square&logo=mariadb&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/MongoDB-0A0E14?style=flat-square&logo=mongodb&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/SQLite-0A0E14?style=flat-square&logo=sqlite&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Firebase-0A0E14?style=flat-square&logo=firebase&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Supabase-0A0E14?style=flat-square&logo=supabase&logoColor=00E5A0" />
+
+**APIs & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Postman-0A0E14?style=flat-square&logo=postman&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Swagger-0A0E14?style=flat-square&logo=swagger&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Google_Cloud-0A0E14?style=flat-square&logo=googlecloud&logoColor=00E5A0" />
 
 **Scripting**
 <br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Batch-C1F12E?style=flat-square&logo=windowsterminal&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/PowerShell-0A0E14?style=flat-square&logo=powershell&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Batch-0A0E14?style=flat-square&logo=windowsterminal&logoColor=00E5A0" />
+
+**Python Libraries**
+<br>
+<img src="https://img.shields.io/badge/Scapy-0A0E14?style=flat-square&logo=python&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Requests-0A0E14?style=flat-square&logo=python&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/BeautifulSoup-0A0E14?style=flat-square&logo=python&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Selenium-0A0E14?style=flat-square&logo=selenium&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Pandas-0A0E14?style=flat-square&logo=pandas&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/NumPy-0A0E14?style=flat-square&logo=numpy&logoColor=00E5A0" />
 
 </td>
 <td valign="top" width="50%">
 
 **Embedded & Hardware**
 <br>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-0A0E14?style=flat-square&logo=espressif&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Arduino-0A0E14?style=flat-square&logo=arduino&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-0A0E14?style=flat-square&logo=raspberrypi&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/PlatformIO-0A0E14?style=flat-square&logo=platformio&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/UART%2FJTAG-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/BLE_HID-0A0E14?style=flat-square&logo=bluetooth&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/NFC%2FRFID-0A0E14?style=flat-square&logo=nfc&logoColor=00E5A0" />
 
 **Security & Offensive Tooling**
 <br>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghidra-3776AB?style=flat-square&logo=ghidra&logoColor=white" />
-<img src="https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=white" />
-<img src="https://img.shields.io/badge/Bug_Bounty-40B778?style=flat-square&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-0A0E14?style=flat-square&logo=metasploit&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Burp_Suite-0A0E14?style=flat-square&logo=burpsuite&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Wireshark-0A0E14?style=flat-square&logo=wireshark&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Nmap-0A0E14?style=flat-square&logo=nmap&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Ghidra-0A0E14?style=flat-square&logo=ghidra&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Hashcat-0A0E14?style=flat-square&logo=hashcat&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-0A0E14?style=flat-square&logo=owasp&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Aircrack--ng-0A0E14?style=flat-square&logo=aircrackng&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Bug_Bounty-0A0E14?style=flat-square&logo=hackerone&logoColor=00E5A0" />
 
-**Environment & Tools**
+**Recon & OSINT**
 <br>
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/TOR-7E57C2?style=flat-square&logo=tor-project&logoColor=white" />
-<img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Shodan-0A0E14?style=flat-square&logo=shodan&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/theHarvester-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/HackTheBox-0A0E14?style=flat-square&logo=hackthebox&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/TryHackMe-0A0E14?style=flat-square&logo=tryhackme&logoColor=00E5A0" />
+
+**Reverse Engineering**
+<br>
+<img src="https://img.shields.io/badge/Binwalk-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/GDB-0A0E14?style=flat-square&logo=gnu&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/radare2-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/apktool-0A0E14?style=flat-square&logo=android&logoColor=00E5A0" />
+
+**Tunneling & Remote Access**
+<br>
+<img src="https://img.shields.io/badge/Ngrok-0A0E14?style=flat-square&logo=ngrok&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Tailscale-0A0E14?style=flat-square&logo=tailscale&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Cloudflare_Tunnel-0A0E14?style=flat-square&logo=cloudflare&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/OpenVPN-0A0E14?style=flat-square&logo=openvpn&logoColor=00E5A0" />
+
+**Editors & IDEs**
+<br>
+<img src="https://img.shields.io/badge/VS_Code-0A0E14?style=flat-square&logo=visualstudiocode&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Android_Studio-0A0E14?style=flat-square&logo=androidstudio&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Neovim-0A0E14?style=flat-square&logo=neovim&logoColor=00E5A0" />
+
+**Local Dev & Infra**
+<br>
+<img src="https://img.shields.io/badge/Linux_Mint-0A0E14?style=flat-square&logo=linuxmint&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Kali_Linux-0A0E14?style=flat-square&logo=kalilinux&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Arch_Linux-0A0E14?style=flat-square&logo=archlinux&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Apache-0A0E14?style=flat-square&logo=apache&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Nginx-0A0E14?style=flat-square&logo=nginx&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/SSH-0A0E14?style=flat-square&logo=openssh&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Composer-0A0E14?style=flat-square&logo=composer&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/VirtualBox-0A0E14?style=flat-square&logo=virtualbox&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/TOR-0A0E14?style=flat-square&logo=tor-project&logoColor=00E5A0" />
+<img src="https://img.shields.io/badge/Termux-0A0E14?style=flat-square&logo=gnu-bash&logoColor=00E5A0" />
 
 </td>
 </tr>
@@ -102,46 +191,28 @@ Working across web (**Laravel/PHP**), desktop (**C#**, **Java**), Android (**Kot
 
 ## `git log --stat`
 
+<!-- Row 1: Stats + Most Commit Language — inline 50% each, no whitespace between tags -->
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="GitHub Stats" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Most Commit Language" width="49.5%" /></div>
+
+<!-- Row 2: Repos Per Language + Productive Time -->
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Repos Per Language" width="49.5%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7wp81x&theme=default&utcOffset=8&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0" alt="Productive Time" width="49.5%" /></div>
+
+<!-- Row 3: Profile Details — full width, same API family so colors work correctly -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=FFFFFF&title_color=1F6B41&text_color=24292E&border_color=E1E4E8&icon_color=1F6B41&chart_color=1F6B41" />
-  <img alt="7wp81x's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=FFFFFF&title_color=1F6B41&text_color=24292E&border_color=E1E4E8&icon_color=1F6B41&chart_color=1F6B41" />
-  <img alt="7wp81x's most-used languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" height="180" />
-</picture>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7wp81x&theme=default&bg_color=0A0E14&title_color=00E5A0&text_color=E6EDF3&border_color=1E2533&icon_color=00E5A0&chart_color=00E5A0"
+    alt="Profile Details"
+    width="100%"
+  />
 </div>
 
+<!-- Row 4: Streak — full width -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7wp81x&theme=default&bg_color=FFFFFF&title_color=1F6B41&text_color=24292E&border_color=E1E4E8&icon_color=1F6B41&chart_color=1F6B41" />
-  <img alt="7wp81x's repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7wp81x&theme=default&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7wp81x&theme=default&utcOffset=8&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7wp81x&theme=default&utcOffset=8&bg_color=FFFFFF&title_color=1F6B41&text_color=24292E&border_color=E1E4E8&icon_color=1F6B41&chart_color=1F6B41" />
-  <img alt="7wp81x's productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7wp81x&theme=default&utcOffset=8&bg_color=0A0D0F&title_color=39D97A&text_color=D5DADE&border_color=212A30&icon_color=39D97A&chart_color=39D97A" height="180" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=default&combine_all_yearly_contributions=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=7wp81x&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=1F6B41&fire=1F6B41&currStreakNum=24292E&sideNums=24292E&currStreakLabel=1F6B41&sideLabels=6A737D&dates=6A737D&hide_border=false" />
-  <img alt="7wp81x's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0D0F&border=212A30&stroke=212A30&ring=39D97A&fire=39D97A&currStreakNum=D5DADE&sideNums=D5DADE&currStreakLabel=39D97A&sideLabels=6F7F88&dates=6F7F88&hide_border=false" />
-</picture>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=7wp81x&background=0A0E14&border=1E2533&stroke=1E2533&ring=00E5A0&fire=00B87F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00E5A0&sideLabels=8B949E&dates=8B949E&hide_border=false"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </div>
 
 <br>
